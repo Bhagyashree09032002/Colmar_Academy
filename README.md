@@ -1,4 +1,4 @@
-# Colmar Academy Website
+# Colmar Academy Project
 
 ## Overview
 This project is a responsive and interactive website for Colmar Academy, designed to deliver a seamless user experience across all devices. It features a clean and professional layout, focusing on usability and aesthetic appeal.
